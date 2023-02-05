@@ -9,7 +9,6 @@
 
 void program(int type, char **parameter)
 {
-	printf("Program Start");
 	DBusConnection *connection;
 	DBusError error;
 
